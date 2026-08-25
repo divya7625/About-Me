@@ -1,7 +1,7 @@
 # About-Me
 # Hi there 👋, I'm Divya Bommanaboina  
 
-🎓 **B.Tech Final year Year (CSE)** | Kodada Institute of Technology and Science for Women (2023–2027)  
+🎓 **B.Tech Final Year (CSE)** | Kodada Institute of Technology and Science for Women (2023–2027)  
 💻 **Aspiring Software Engineer** | Passionate about **Web Development, Databases, and Problem-Solving**  
 
 ---
@@ -16,7 +16,7 @@
 ## 📜 Certifications  
 - Python Programming – IBM  
 - SQL – IBM  
-- Introduction to Web Development – Meta  
+- Communication Skills – Passport to Earning (Generation Unlimited / UNICEF) 
 
 ---
 
