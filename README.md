@@ -1,7 +1,7 @@
 # About-Me
 # Hi there 👋, I'm Divya Bommanaboina  
 
-🎓 **B.Tech 3rd Year (CSE)** | Kodada Institute of Technology and Science for Women (2023–2027)  
+🎓 **B.Tech Final year Year (CSE)** | Kodada Institute of Technology and Science for Women (2023–2027)  
 💻 **Aspiring Software Engineer** | Passionate about **Web Development, Databases, and Problem-Solving**  
 
 ---
